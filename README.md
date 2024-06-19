@@ -1,0 +1,2 @@
+# Kasir-Sederhana
+Program kasir 
