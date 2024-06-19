@@ -1,6 +1,7 @@
 ```
 # Program Kasir
-Output yang dihasilkan 
+Output yang dihasilkan
+
 Masukkan nama barang: Seblak
 
 Masukkan harga barang: 15000
